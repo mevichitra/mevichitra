@@ -8,3 +8,8 @@ A Self-proclaimed Product Ninja 🥷🏻.
 - 💬 Ask me about Product Management, Startups, and OpenIntervue
 - 📫 How to reach me: [Twitter](https://twitter.com/mevichitra)
 - ⚡ Fun fact: I love to play Cricket 🏏
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mevichitra&show_icons=true&theme=radical" alt="Vichitra's Github Stats" />
+</p>
