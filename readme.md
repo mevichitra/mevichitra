@@ -1,5 +1,8 @@
-<h4 align="left" color="black">whoami</h4>
+<div>
+  <h4 align="left" color="black">whoami</h4>
 <h4 align="left" color="black">Hey! I'm Vichitra 👋🏻</h4>
+</div>
+
 <h3 align="left">Cofounder of OpenIntervue & A Self-proclaimed Product Ninja 🥷🏻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mevichitra&label=Profile%20Views&color=0e75b6&style=flat" alt="mevichitra" /> </p>
