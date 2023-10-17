@@ -1,3 +1,4 @@
 ### Hi, I'm Vichitra 👋🏻
-- #### Cofounder of OpenIntervue
-- #### A Self-proclaimed Product Ninja
+
+#### About Me:
+I am Cofounder of OpenIntervuea and a Self-proclaimed Product Ninja.
