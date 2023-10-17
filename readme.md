@@ -2,7 +2,7 @@
 
 ## About Me
 
-I go by the name **mevichitra**, and I'm a passionate Product Ninja with a knack for building amazing products. As a co-founder of **OpenIntervue**, I'm dedicated to creating innovative solutions that empower businesses and individuals.
+I'm a passionate Product Ninja with a knack for building amazing products. As a co-founder of **OpenIntervue**, I'm dedicated to creating innovative solutions that empower businesses and individuals.
 
 ## What I Do
 
