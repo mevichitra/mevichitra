@@ -1,4 +1,4 @@
-<div>
+<div background-color="#fff">
   <h4 align="left" color="black">whoami</h4>
 <h4 align="left" color="black">Hey! I'm Vichitra 👋🏻</h4>
 </div>
