@@ -1,10 +1,30 @@
-### Hi, I'm Vichitra 👋🏻
-Cofounder, OpenIntervue.
-A Self-proclaimed Product Ninja 🥷🏻.
+# Hi, I'm Vichitra 👋🏻
 
-- 🔭 I’m currently working on [OpenIntervue](https://openintervue.com)
-- 🌱 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language))
-- 👯 I’m looking to collaborate on [OpenIntervue](https://openintervue.com)
-- 💬 Ask me about Product Management, Startups, and OpenIntervue
-- 📫 How to reach me: [X](https://x.com/vichitrue)
-- ⚡ Fun fact: I love to play Cricket 🏏
+Cofounder & CTO @ [OpenIntervue](https://openintervue.com)  
+Aspiring wizard at building things nobody asked for — yet somehow everyone needs.
+
+---
+
+### 🚀 What I'm Up To
+- Building [OpenIntervue](https://openintervue.com) — helping companies hire better, faster.
+- Debugging life one line of C code at a time.
+- Manifesting product ideas into existence with caffeine and unreasonable optimism.
+
+### 🤝 Let's Connect
+- DM roulette: [X (Twitter)](https://x.com/vichitrue)
+- Business inquiries? Carrier pigeons welcome too.
+
+### 🎯 Expertise
+- Product Strategy, Startups, Tech Leadership
+- Bootstrapping products → Scaling → Staying (mostly) sane
+
+### 🏏 Fun Fact
+- On weekends, I pretend to be the next big cricket sensation.
+
+---
+
+### 📈 GitHub Stats
+
+![Vichitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mevichitra&show_icons=true&hide_title=true&hide=prs&hide_rank=true&hide_border=true)
+
+---
