@@ -25,8 +25,6 @@ Aspiring wizard at building things nobody asked for — yet somehow everyone nee
 
 ### 📈 GitHub Stats
 
-[![Vichitra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mevichitra&show_icons=true&hide_title=true&hide=prs&hide_rank=true&hide_border=true)](https://github.com/mevichitra)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mevichitra&hide_border=true)](https://github.com/mevichitra)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mevichitra&layout=compact&hide_border=true)](https://github.com/mevichitra)
