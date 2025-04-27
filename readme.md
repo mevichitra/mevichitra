@@ -19,7 +19,7 @@ Aspiring wizard at building things nobody asked for — yet somehow everyone nee
 - Bootstrapping products → Scaling → Staying (mostly) sane
 
 ### 🏏 Fun Fact
-- On weekends, I pretend to be the next big cricket sensation.
+- On weekends, I pretend to be the next big cricket sensation or indian idol icon.
 
 ---
 
